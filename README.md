@@ -65,6 +65,21 @@ Publish the website in the LocalHost.
             margin: 30px auto;
             width: 100%;
         }
+        .mypic{
+            position: relative;
+            top: 250px;
+            left: 140px;
+            width: 120px;
+            height: 90px;
+            background-size:contain;
+        }
+        .pub{
+            color:azure;
+            font-size: medium;
+            position: relative;
+            top: 270px;px;
+            left: 150px;px;
+        }
     </style>
 </head>
 <body>
@@ -79,13 +94,20 @@ Publish the website in the LocalHost.
         <hr>
         <p>"The fog creeps in, shrouding the dead in mystery,and living in dread",foggy graveyards hide secret but the misty veil also reveals the truth those who dare to listen "GONE BUT NOT FORGOTTEN"</p> 
         <h2>-HANNI PARK</h2>
+        <div class="mypic">
+        <img src="WhatsApp Image 2024-12-07 at 15.49.56_4c677868.jpg" width="120" height="100" >
+         </div>
+         <div class="pub">
+            Richard Matheson Sr.
+        </div>
         </bold>
     </center>
     </div>
 </body>
 </html>
 ```
+        
 # OUTPUT:
-![alt text](<Screenshot 2024-12-07 015431.png>)
+![alt text](<Screenshot 2024-12-07 210151.png>)
 # RESULT:
 The program for designing book front cover page using HTML and CSS is completed successfully.
